@@ -89,6 +89,6 @@
     "webpack-merge": "^4.0.0"
   },
   "dependencies": {
-    "viewerjs": "https://github.com/nakalissi/viewerjs.git"
+    "viewerjs": "https://github.com/nakalissi/v-viewer"
   }
 }
